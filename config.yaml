@@ -38,8 +38,8 @@ keywords:
     # "NeRF":
     #     filters: ["NeRF"]
     "Video Instance Segmentation":
-        filters: ["Video Instance Segmentation", "VIS"]
+        filters: ["Video Instance Segmentation"]
     "Video Object Segmentation":
-        filters: ["Video Object Segmentation", "VOS"]
+        filters: ["Video Object Segmentation"]
     "SAM":
         filters: ["SAM2", "SAM", "Segment Anything Model"]
