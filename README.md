@@ -19,16 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-12**|**Elevating Flow-Guided Video Inpainting with Reference Generation**|Suhwan Cho et.al.|[2412.08975](http://arxiv.org/abs/2412.08975)|**[link](https://github.com/suhwan-cho/RGVI)**|
-|**2024-12-11**|**Disentangling impact of capacity, objective, batchsize, estimators, and step-size on flow VI**|Abhinav Agrawal et.al.|[2412.08824](http://arxiv.org/abs/2412.08824)|null|
-|**2024-12-11**|**Relativistic Embedded Equation-of-Motion Coupled-Cluster Approach to the Core-Ionized States of Actinides: A Case Study of Uranyl(VI) in Cs $_2$UO$_2$Cl$_4$**|Wilken Aldair Misael et.al.|[2412.08403](http://arxiv.org/abs/2412.08403)|null|
-|**2024-12-11**|**Dynamic Modality-Camera Invariant Clustering for Unsupervised Visible-Infrared Person Re-identification**|Yiming Yang et.al.|[2412.08231](http://arxiv.org/abs/2412.08231)|null|
-|**2024-12-09**|**Femtosecond laser processing for blast-hole analysis: laser removal of slurry and effect on rocks**|Julia Brand et.al.|[2412.06214](http://arxiv.org/abs/2412.06214)|null|
-|**2024-12-09**|**Input-to-State Stability of Newton Methods in Nash Equilibrium Problems with Applications to Game-Theoretic Model Predictive Control**|Mushuang Liu et.al.|[2412.06186](http://arxiv.org/abs/2412.06186)|null|
-|**2024-12-08**|**Thermodynamic favourability of 1T phase over 1H phase in group III metal monochalcogenide zigzag nanoribbons**|Emin Aliyev et.al.|[2412.05971](http://arxiv.org/abs/2412.05971)|null|
-|**2024-12-06**|**Mix-Modality Person Re-Identification: A New and Practical Paradigm**|Wei Liu et.al.|[2412.04719](http://arxiv.org/abs/2412.04719)|null|
 |**2024-12-05**|**Towards Real-Time Open-Vocabulary Video Instance Segmentation**|Bin Yan et.al.|[2412.04434](http://arxiv.org/abs/2412.04434)|null|
-|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177](http://arxiv.org/abs/2412.04177)|**[link](https://github.com/Ludvins/FixedMeanGaussianProcesses)**|
 |**2024-12-02**|**A2VIS: Amodal-Aware Approach to Video Instance Segmentation**|Minh Tran et.al.|[2412.01147](http://arxiv.org/abs/2412.01147)|null|
 |**2024-12-01**|**SyncVIS: Synchronized Video Instance Segmentation**|Rongkun Zheng et.al.|[2412.00882](http://arxiv.org/abs/2412.00882)|**[link](https://github.com/rkzheng99/syncvis)**|
 |**2024-11-26**|**Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps**|Xue Xia et.al.|[2411.17425](http://arxiv.org/abs/2411.17425)|null|
@@ -45,16 +36,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414](http://arxiv.org/abs/2412.09414)|null|
-|**2024-12-12**|**Uplift modeling with continuous treatments: A predict-then-optimize approach**|Simon De Vos et.al.|[2412.09232](http://arxiv.org/abs/2412.09232)|**[link](https://github.com/simondevos/umct)**|
-|**2024-12-11**|**Rethinking Mean Square Error: Why Information is a Superior Assessment of Estimators**|Paul Vos et.al.|[2412.08475](http://arxiv.org/abs/2412.08475)|null|
-|**2024-12-12**|**FLRONet: Deep Operator Learning for High-Fidelity Fluid Flow Field Reconstruction from Sparse Sensor Measurements**|Hiep Vo Dang et.al.|[2412.08009](http://arxiv.org/abs/2412.08009)|null|
-|**2024-12-10**|**The Benefits of the Virtual Observatory to Underserved Communities**|G. Bruce Berriman et.al.|[2412.07973](http://arxiv.org/abs/2412.07973)|null|
-|**2024-12-10**|**Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement (JUDE).pdf**|Tu Vo et.al.|[2412.07527](http://arxiv.org/abs/2412.07527)|null|
 |**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|null|
-|**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
-|**2024-12-06**|**Achieving Group Fairness through Independence in Predictive Process Monitoring**|Jari Peeperkorn et.al.|[2412.04914](http://arxiv.org/abs/2412.04914)|**[link](https://github.com/jaripeeperkorn/Group-Fairness-in-Predictive-Process-Monitoring)**|
 |**2024-12-03**|**Multi-Granularity Video Object Segmentation**|Sangbeom Lim et.al.|[2412.01471](http://arxiv.org/abs/2412.01471)|null|
 |**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136](http://arxiv.org/abs/2412.01136)|null|
 |**2024-11-28**|**Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation**|Finlay G. C. Hudson et.al.|[2411.19210](http://arxiv.org/abs/2411.19210)|null|
