@@ -37,3 +37,5 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "Video Instance Segmentation":
+        filters: ["Video Instance Segmentation", "VIS", "Video Segmentation"]
