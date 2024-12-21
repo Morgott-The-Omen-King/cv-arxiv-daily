@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -29,6 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|null|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
 |**2024-12-03**|**Multi-Granularity Video Object Segmentation**|Sangbeom Lim et.al.|[2412.01471](http://arxiv.org/abs/2412.01471)|null|
@@ -44,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Beyond the Hype: A Comprehensive Review of Current Trends in Generative AI Research, Teaching Practices, and Tools**|James Prather et.al.|[2412.14732](http://arxiv.org/abs/2412.14732)|null|
+|**2024-12-19**|**Relational Programming with Foundation Models**|Ziyang Li et.al.|[2412.14515](http://arxiv.org/abs/2412.14515)|null|
+|**2024-12-19**|**DirectorLLM for Human-Centric Video Generation**|Kunpeng Song et.al.|[2412.14484](http://arxiv.org/abs/2412.14484)|null|
+|**2024-12-19**|**Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion**|Jixuan He et.al.|[2412.14462](http://arxiv.org/abs/2412.14462)|**[link](https://github.com/kakituken/affordance-aware-any)**|
+|**2024-12-18**|**Scaling and logic in the color code on a superconducting quantum processor**|Nathan Lacroix et.al.|[2412.14256](http://arxiv.org/abs/2412.14256)|null|
+|**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
+|**2024-12-18**|**Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer**|Xinyuan Shao et.al.|[2412.13908](http://arxiv.org/abs/2412.13908)|**[link](https://github.com/swedfr/memorizingsam)**|
+|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
+|**2024-12-18**|**SSE-SAM: Balancing Head and Tail Classes Gradually through Stage-Wise SAM**|Xingyu Lyu et.al.|[2412.13715](http://arxiv.org/abs/2412.13715)|null|
+|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-17**|**Time-Biased Random Walks and Robustness of Expanders**|Sam Olesker-Taylor et.al.|[2412.13109](http://arxiv.org/abs/2412.13109)|null|
 |**2024-12-17**|**Fruit Deformity Classification through Single-Input and Multi-Input Architectures based on CNN Models using Real and Synthetic Images**|Tommy D. Beltran et.al.|[2412.12966](http://arxiv.org/abs/2412.12966)|null|
 |**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949](http://arxiv.org/abs/2412.12949)|null|
