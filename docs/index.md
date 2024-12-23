@@ -60,7 +60,7 @@ layout: default
 |**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949](http://arxiv.org/abs/2412.12949)|null|
 |**2024-12-17**|**SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection**|Xing Liufu et.al.|[2412.12892](http://arxiv.org/abs/2412.12892)|**[link](https://github.com/Star-xing1/SAUGE)**|
 |**2024-12-17**|**CoLoRFul for hadron collisions: Integrating the counterterms**|S. Van Thurenhout et.al.|[2412.12750](http://arxiv.org/abs/2412.12750)|null|
-|**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737](http://arxiv.org/abs/2412.12737)|null|
+|**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737](http://arxiv.org/abs/2412.12737)|**[link](https://github.com/xai4sar/polsam)**|
 |**2024-12-17**|**SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation**|Shuangping Huang et.al.|[2412.12660](http://arxiv.org/abs/2412.12660)|null|
 |**2024-12-17**|**SAModified: A Foundation Model-Based Zero-Shot Approach for Refining Noisy Land-Use Land-Cover Maps**|Sparsh Pekhale et.al.|[2412.12552](http://arxiv.org/abs/2412.12552)|null|
 |**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
