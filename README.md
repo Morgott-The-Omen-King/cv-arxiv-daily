@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-11-23**|**Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## Video Object Segmentation
 
@@ -48,7 +48,7 @@
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## SAM
 
@@ -62,7 +62,7 @@
 |**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
 |**2024-12-18**|**Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer**|Xinyuan Shao et.al.|[2412.13908](http://arxiv.org/abs/2412.13908)|**[link](https://github.com/swedfr/memorizingsam)**|
 |**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
-|**2024-12-18**|**SSE-SAM: Balancing Head and Tail Classes Gradually through Stage-Wise SAM**|Xingyu Lyu et.al.|[2412.13715](http://arxiv.org/abs/2412.13715)|null|
+|**2024-12-18**|**SSE-SAM: Balancing Head and Tail Classes Gradually through Stage-Wise SAM**|Xingyu Lyu et.al.|[2412.13715](http://arxiv.org/abs/2412.13715)|**[link](https://github.com/zemdalk/sse-sam)**|
 |**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-17**|**Time-Biased Random Walks and Robustness of Expanders**|Sam Olesker-Taylor et.al.|[2412.13109](http://arxiv.org/abs/2412.13109)|null|
 |**2024-12-17**|**Fruit Deformity Classification through Single-Input and Multi-Input Architectures based on CNN Models using Real and Synthetic Images**|Tommy D. Beltran et.al.|[2412.12966](http://arxiv.org/abs/2412.12966)|null|
@@ -88,7 +88,7 @@
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
