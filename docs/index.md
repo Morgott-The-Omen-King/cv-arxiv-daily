@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -65,7 +65,7 @@ layout: default
 |**2024-12-18**|**Scaling and logic in the color code on a superconducting quantum processor**|Nathan Lacroix et.al.|[2412.14256](http://arxiv.org/abs/2412.14256)|null|
 |**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
 |**2024-12-18**|**Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer**|Xinyuan Shao et.al.|[2412.13908](http://arxiv.org/abs/2412.13908)|**[link](https://github.com/swedfr/memorizingsam)**|
-|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
+|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|**[link](https://github.com/taozh2017/knowsam)**|
 |**2024-12-18**|**SSE-SAM: Balancing Head and Tail Classes Gradually through Stage-Wise SAM**|Xingyu Lyu et.al.|[2412.13715](http://arxiv.org/abs/2412.13715)|**[link](https://github.com/zemdalk/sse-sam)**|
 |**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-17**|**Time-Biased Random Walks and Robustness of Expanders**|Sam Olesker-Taylor et.al.|[2412.13109](http://arxiv.org/abs/2412.13109)|null|
