@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.31
+## Updated on 2025.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -45,7 +45,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-27**|**Ultralight Signal Classification Model for Automatic Modulation Recognition**|Alessandro Daniele Genuardi Oquendo et.al.|[2412.19585](http://arxiv.org/abs/2412.19585)|null|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
+|**2024-12-30**|**Cohomology of flag supervarieties and resolutions of determinantal ideals. II**|Steven V Sam et.al.|[2412.20797](http://arxiv.org/abs/2412.20797)|null|
+|**2024-12-29**|**LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**|Takumi Kobori et.al.|[2412.20486](http://arxiv.org/abs/2412.20486)|null|
+|**2024-12-28**|**Interleaved dual-species arrays of single atoms using a passive optical element and one trapping laser**|Chengyu Fang et.al.|[2412.20261](http://arxiv.org/abs/2412.20261)|null|
+|**2024-12-28**|**How To Think About End-To-End Encryption and AI: Training, Processing, Disclosure, and Consent**|Mallory Knodel et.al.|[2412.20231](http://arxiv.org/abs/2412.20231)|null|
+|**2024-12-27**|**Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts**|Enze Xie et.al.|[2412.19917](http://arxiv.org/abs/2412.19917)|null|
+|**2024-12-30**|**Ultralight Signal Classification Model for Automatic Modulation Recognition**|Alessandro Daniele Genuardi Oquendo et.al.|[2412.19585](http://arxiv.org/abs/2412.19585)|null|
 |**2024-12-26**|**When SAM2 Meets Video Shadow and Mirror Detection**|Leiping Jie et.al.|[2412.19293](http://arxiv.org/abs/2412.19293)|**[link](https://github.com/leipingjie/sam2video)**|
 |**2024-12-24**|**Expand VSR Benchmark for VLLM to Expertize in Spatial Rules**|Peijin Xie et.al.|[2412.18224](http://arxiv.org/abs/2412.18224)|**[link](https://github.com/peijin360/vsre)**|
 |**2024-12-23**|**Asynchronous Training of Mixed-Role Human Actors in a Partially-Observable Environment**|Kimberlee Chestnut Chang et.al.|[2412.17954](http://arxiv.org/abs/2412.17954)|null|
