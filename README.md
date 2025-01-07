@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-11-23**|**Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Video Object Segmentation
 
@@ -48,12 +48,22 @@
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Removing Atmospheric Carbon Dioxide Using Large Land Or Ocean Areas Will Change Earth Albedo And Force Climate**|J. B. Marston et.al.|[2501.01885](http://arxiv.org/abs/2501.01885)|null|
+|**2025-01-03**|**Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services**|Max T. M. Ng et.al.|[2501.01615](http://arxiv.org/abs/2501.01615)|null|
+|**2025-01-02**|**Predicting the Performance of Black-box LLMs through Self-Queries**|Dylan Sam et.al.|[2501.01558](http://arxiv.org/abs/2501.01558)|null|
+|**2025-01-02**|**A Link Between White Dwarf Pulsars and Polars: Multiwavelength Observations of the 9.36-Minute Period Variable Gaia22ayj**|Antonio C. Rodriguez et.al.|[2501.01490](http://arxiv.org/abs/2501.01490)|null|
+|**2025-01-02**|**Unleashing Correlation and Continuity for Hyperspectral Reconstruction from RGB Images**|Fuxiang Feng et.al.|[2501.01481](http://arxiv.org/abs/2501.01481)|null|
+|**2025-01-02**|**Quantum periods, toric degenerations and intrinsic mirror symmetry**|Sam Johnston et.al.|[2501.01408](http://arxiv.org/abs/2501.01408)|null|
+|**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372](http://arxiv.org/abs/2501.01372)|**[link](https://github.com/nedatavakoli/scarnet)**|
+|**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
+|**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752](http://arxiv.org/abs/2501.00752)|null|
+|**2024-12-31**|**2 OLMo 2 Furious**|Team OLMo et.al.|[2501.00656](http://arxiv.org/abs/2501.00656)|null|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
 |**2024-12-30**|**Cohomology of flag supervarieties and resolutions of determinantal ideals. II**|Steven V Sam et.al.|[2412.20797](http://arxiv.org/abs/2412.20797)|null|
 |**2024-12-29**|**LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**|Takumi Kobori et.al.|[2412.20486](http://arxiv.org/abs/2412.20486)|null|
@@ -109,7 +119,7 @@
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
