@@ -60,19 +60,19 @@ layout: default
 |**2025-01-07**|**Conditions for radiative zones in the molecular hydrogen envelope of Jupiter and Saturn: The role of alkali metals**|Louis Siebenaler et.al.|[2501.03756](http://arxiv.org/abs/2501.03756)|null|
 |**2025-01-07**|**Using the STIX background detector as a proxy for GOES**|Muriel Zoë Stiefel et.al.|[2501.03667](http://arxiv.org/abs/2501.03667)|null|
 |**2025-01-07**|**Assessing the Impact of Binary Systems on Microlensing Using SPISEA and PopSyCLE Population Simulations**|Natasha S. Abrams et.al.|[2501.03506](http://arxiv.org/abs/2501.03506)|null|
-|**2025-01-06**|**Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy**|Risha Goel et.al.|[2501.03153](http://arxiv.org/abs/2501.03153)|null|
+|**2025-01-06**|**Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy**|Risha Goel et.al.|[2501.03153](http://arxiv.org/abs/2501.03153)|**[link](https://github.com/jamalilab/sam4em)**|
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
 |**2025-01-04**|**Tailored Real-time AR Captioning Interface for Enhancing Learning Experience of Deaf and Hard-of-Hearing (DHH) Students**|Yasith Samaradivakara et.al.|[2501.02233](http://arxiv.org/abs/2501.02233)|null|
 |**2025-01-03**|**Removing Atmospheric Carbon Dioxide Using Large Land Or Ocean Areas Will Change Earth Albedo And Force Climate**|J. B. Marston et.al.|[2501.01885](http://arxiv.org/abs/2501.01885)|null|
 |**2025-01-03**|**Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services**|Max T. M. Ng et.al.|[2501.01615](http://arxiv.org/abs/2501.01615)|null|
-|**2025-01-02**|**Predicting the Performance of Black-box LLMs through Self-Queries**|Dylan Sam et.al.|[2501.01558](http://arxiv.org/abs/2501.01558)|null|
+|**2025-01-02**|**Predicting the Performance of Black-box LLMs through Self-Queries**|Dylan Sam et.al.|[2501.01558](http://arxiv.org/abs/2501.01558)|**[link](https://github.com/dsam99/quere)**|
 |**2025-01-02**|**A Link Between White Dwarf Pulsars and Polars: Multiwavelength Observations of the 9.36-Minute Period Variable Gaia22ayj**|Antonio C. Rodriguez et.al.|[2501.01490](http://arxiv.org/abs/2501.01490)|null|
 |**2025-01-02**|**Unleashing Correlation and Continuity for Hyperspectral Reconstruction from RGB Images**|Fuxiang Feng et.al.|[2501.01481](http://arxiv.org/abs/2501.01481)|null|
 |**2025-01-02**|**Quantum periods, toric degenerations and intrinsic mirror symmetry**|Sam Johnston et.al.|[2501.01408](http://arxiv.org/abs/2501.01408)|null|
 |**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372](http://arxiv.org/abs/2501.01372)|**[link](https://github.com/nedatavakoli/scarnet)**|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 |**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752](http://arxiv.org/abs/2501.00752)|null|
-|**2024-12-31**|**2 OLMo 2 Furious**|Team OLMo et.al.|[2501.00656](http://arxiv.org/abs/2501.00656)|null|
+|**2024-12-31**|**2 OLMo 2 Furious**|Team OLMo et.al.|[2501.00656](http://arxiv.org/abs/2501.00656)|**[link](https://github.com/allenai/OLMo-core)**|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
 |**2024-12-30**|**Cohomology of flag supervarieties and resolutions of determinantal ideals. II**|Steven V Sam et.al.|[2412.20797](http://arxiv.org/abs/2412.20797)|null|
 |**2024-12-29**|**LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing**|Takumi Kobori et.al.|[2412.20486](http://arxiv.org/abs/2412.20486)|null|
@@ -125,7 +125,7 @@ layout: default
 |**2024-12-11**|**Lightweight Method for Interactive 3D Medical Image Segmentation with Multi-Round Result Fusion**|Bingzhi Shen et.al.|[2412.08315](http://arxiv.org/abs/2412.08315)|null|
 |**2024-12-11**|**The supermassive black hole population from seeding via collisions in Nuclear Star Clusters**|M. Liempi et.al.|[2412.08280](http://arxiv.org/abs/2412.08280)|null|
 |**2024-12-11**|**Product separability for special cube complexes**|Sam Shepherd et.al.|[2412.08248](http://arxiv.org/abs/2412.08248)|null|
-|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
+|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
