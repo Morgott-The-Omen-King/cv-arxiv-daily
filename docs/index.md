@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.13
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -29,7 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|null|
+|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
@@ -47,6 +47,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Guided SAM: Label-Efficient Part Segmentation**|S. B. van Rooij et.al.|[2501.07434](http://arxiv.org/abs/2501.07434)|null|
+|**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397](http://arxiv.org/abs/2501.07397)|null|
+|**2025-01-13**|**Borel fractional perfect matchings in quasi-transitive amenable graphs**|Sam Murray et.al.|[2501.07352](http://arxiv.org/abs/2501.07352)|null|
+|**2025-01-13**|**EdgeTAM: On-Device Track Anything Model**|Chong Zhou et.al.|[2501.07256](http://arxiv.org/abs/2501.07256)|null|
+|**2025-01-13**|**Lessons From Red Teaming 100 Generative AI Products**|Blake Bullwinkel et.al.|[2501.07238](http://arxiv.org/abs/2501.07238)|null|
+|**2025-01-12**|**SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation**|Javier Gamazo Tejero et.al.|[2501.06836](http://arxiv.org/abs/2501.06836)|null|
+|**2025-01-12**|**RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2501.06809](http://arxiv.org/abs/2501.06809)|**[link](https://github.com/kyanchen/rsrefseg)**|
+|**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/ai16z/eliza)**|
+|**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
+|**2025-01-12**|**PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation**|Zhonghao Yan et.al.|[2501.06692](http://arxiv.org/abs/2501.06692)|null|
 |**2025-01-09**|**Aspects of Propagator Sparsening in Lattice QCD**|Sam Christian et.al.|[2501.05404](http://arxiv.org/abs/2501.05404)|null|
 |**2025-01-09**|**The ESO SupJup Survey V: Exploring Atmospheric Variability and Orbit of the Super-Jupiter AB Pictoris b with CRIRES+**|Siddharth Gandhi et.al.|[2501.05114](http://arxiv.org/abs/2501.05114)|null|
 |**2025-01-08**|**The Evolution of Half-Mass Radii and Color Gradients for Young and Old Quiescent Galaxies at $0.5 < z < 3$ with JWST/PRIMER**|Maike Clausen et.al.|[2501.04788](http://arxiv.org/abs/2501.04788)|null|
