@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -29,7 +29,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
+|**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
+|**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
@@ -47,6 +48,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Analysis of Niobium Electropolishing Using a Generalized Distribution of Relaxation Times Method**|Eric Viklund et.al.|[2501.08588](http://arxiv.org/abs/2501.08588)|null|
+|**2025-01-15**|**The Devil is in Temporal Token: High Quality Video Reasoning Segmentation**|Sitong Gong et.al.|[2501.08549](http://arxiv.org/abs/2501.08549)|null|
+|**2025-01-15**|**SuperSAM: Crafting a SAM Supernetwork via Structured Pruning and Unstructured Parameter Prioritization**|Waqwoya Abebe et.al.|[2501.08504](http://arxiv.org/abs/2501.08504)|**[link](https://github.com/pnnl/supersam)**|
+|**2025-01-14**|**The MAGPI Survey: the subtle role of environment and not-so-subtle impact of generations of stars on galaxy dynamics**|Caroline Foster et.al.|[2501.08461](http://arxiv.org/abs/2501.08461)|null|
+|**2025-01-14**|**Weight Averaging for Out-of-Distribution Generalization and Few-Shot Domain Adaptation**|Shijian Xu et.al.|[2501.08361](http://arxiv.org/abs/2501.08361)|null|
+|**2025-01-14**|**Toward Interactive Multi-User Extended Reality Using Millimeter-Wave Networking**|Jakob Struye et.al.|[2501.08100](http://arxiv.org/abs/2501.08100)|null|
+|**2025-01-14**|**SkipClick: Combining Quick Responses and Low-Level Features for Interactive Segmentation in Winter Sports Contexts**|Robin Schön et.al.|[2501.07960](http://arxiv.org/abs/2501.07960)|null|
+|**2025-01-13**|**Discovery of Ancient Globular Cluster Candidates in The Relic, a Quiescent Galaxy at z=2.5**|Katherine E. Whitaker et.al.|[2501.07627](http://arxiv.org/abs/2501.07627)|null|
 |**2025-01-13**|**Guided SAM: Label-Efficient Part Segmentation**|S. B. van Rooij et.al.|[2501.07434](http://arxiv.org/abs/2501.07434)|null|
 |**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397](http://arxiv.org/abs/2501.07397)|null|
 |**2025-01-13**|**Borel fractional perfect matchings in quasi-transitive amenable graphs**|Sam Murray et.al.|[2501.07352](http://arxiv.org/abs/2501.07352)|null|
