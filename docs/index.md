@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -48,6 +48,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**A Comprehensive Metric for Resilience Evaluation of Power Distribution Systems under Cyber Attacks**|Mitikiri Sagar Babu et.al.|[2501.12094](http://arxiv.org/abs/2501.12094)|null|
+|**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734](http://arxiv.org/abs/2501.11734)|null|
+|**2025-01-20**|**Quantum confining excitons with electrostatic moiré superlattice**|Liuxin Gu et.al.|[2501.11713](http://arxiv.org/abs/2501.11713)|null|
+|**2025-01-20**|**GCSAM: Gradient Centralized Sharpness Aware Minimization**|Mohamed Hassan et.al.|[2501.11584](http://arxiv.org/abs/2501.11584)|null|
+|**2025-01-20**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223](http://arxiv.org/abs/2501.11223)|**[link](https://github.com/spcl/x1)**|
+|**2025-01-17**|**A highly magnetized long-period radio transient exhibiting unusual emission features**|Yunpeng Men et.al.|[2501.10528](http://arxiv.org/abs/2501.10528)|null|
 |**2025-01-17**|**Adaptive Clustering for Efficient Phenotype Segmentation of UAV Hyperspectral Data**|Ciem Cornelissen et.al.|[2501.10199](http://arxiv.org/abs/2501.10199)|null|
 |**2025-01-17**|**Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks**|Michael Schwingshackl et.al.|[2501.10080](http://arxiv.org/abs/2501.10080)|**[link](https://github.com/ait-assistive-autonomous-systems/hopomop)**|
 |**2025-01-16**|**Environmental effects in extreme mass ratio inspirals: perturbations to the environment in Kerr**|Conor Dyson et.al.|[2501.09806](http://arxiv.org/abs/2501.09806)|null|
