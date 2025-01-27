@@ -60,7 +60,7 @@ layout: default
 |**2025-01-22**|**DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**|Kaiyu Li et.al.|[2501.12931](http://arxiv.org/abs/2501.12931)|null|
 |**2025-01-22**|**Inverse Design of Chiral Structures for Giant Helical Dichroism**|Chia-Chun Pan et.al.|[2501.12825](http://arxiv.org/abs/2501.12825)|null|
 |**2025-01-21**|**A Comprehensive Metric for Resilience Evaluation of Power Distribution Systems under Cyber Attacks**|Mitikiri Sagar Babu et.al.|[2501.12094](http://arxiv.org/abs/2501.12094)|null|
-|**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734](http://arxiv.org/abs/2501.11734)|null|
+|**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734](http://arxiv.org/abs/2501.11734)|**[link](https://github.com/computational-cell-analytics/medico-sam)**|
 |**2025-01-20**|**Quantum confining excitons with electrostatic moiré superlattice**|Liuxin Gu et.al.|[2501.11713](http://arxiv.org/abs/2501.11713)|null|
 |**2025-01-20**|**GCSAM: Gradient Centralized Sharpness Aware Minimization**|Mohamed Hassan et.al.|[2501.11584](http://arxiv.org/abs/2501.11584)|null|
 |**2025-01-20**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223](http://arxiv.org/abs/2501.11223)|**[link](https://github.com/spcl/x1)**|
@@ -88,7 +88,7 @@ layout: default
 |**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/ai16z/eliza)**|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-12**|**PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation**|Zhonghao Yan et.al.|[2501.06692](http://arxiv.org/abs/2501.06692)|null|
-|**2025-01-09**|**Aspects of Propagator Sparsening in Lattice QCD**|Sam Christian et.al.|[2501.05404](http://arxiv.org/abs/2501.05404)|null|
+|**2025-01-09**|**Aspects of Propagator Sparsening in Lattice QCD**|Sam Christian et.al.|[2501.05404](http://arxiv.org/abs/2501.05404)|**[link](https://github.com/sam-2727/sparsening)**|
 |**2025-01-09**|**The ESO SupJup Survey V: Exploring Atmospheric Variability and Orbit of the Super-Jupiter AB Pictoris b with CRIRES+**|Siddharth Gandhi et.al.|[2501.05114](http://arxiv.org/abs/2501.05114)|null|
 |**2025-01-08**|**The Evolution of Half-Mass Radii and Color Gradients for Young and Old Quiescent Galaxies at $0.5 < z < 3$ with JWST/PRIMER**|Maike Clausen et.al.|[2501.04788](http://arxiv.org/abs/2501.04788)|null|
 |**2025-01-08**|**Large-scale Grid Optimization: The Workhorse of Future Grid Computations**|Amritanshu Pandey et.al.|[2501.04623](http://arxiv.org/abs/2501.04623)|null|
@@ -112,7 +112,7 @@ layout: default
 |**2025-01-02**|**Quantum periods, toric degenerations and intrinsic mirror symmetry**|Sam Johnston et.al.|[2501.01408](http://arxiv.org/abs/2501.01408)|null|
 |**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372](http://arxiv.org/abs/2501.01372)|**[link](https://github.com/nedatavakoli/scarnet)**|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
-|**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752](http://arxiv.org/abs/2501.00752)|null|
+|**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752](http://arxiv.org/abs/2501.00752)|**[link](https://github.com/suhopark0706/fcp)**|
 |**2024-12-31**|**2 OLMo 2 Furious**|Team OLMo et.al.|[2501.00656](http://arxiv.org/abs/2501.00656)|**[link](https://github.com/allenai/OLMo-core)**|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
 |**2024-12-30**|**Cohomology of flag supervarieties and resolutions of determinantal ideals. II**|Steven V Sam et.al.|[2412.20797](http://arxiv.org/abs/2412.20797)|null|
