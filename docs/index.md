@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -50,6 +50,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816](http://arxiv.org/abs/2501.17816)|null|
+|**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805](http://arxiv.org/abs/2501.17805)|null|
+|**2025-01-28**|**Categorification of Biquandle Arrow Weight Invariants via Quivers**|Sam Nelson et.al.|[2501.17307](http://arxiv.org/abs/2501.17307)|null|
+|**2025-01-28**|**Efficient Knowledge Distillation of SAM for Medical Image Segmentation**|Kunal Dasharath Patil et.al.|[2501.16740](http://arxiv.org/abs/2501.16740)|null|
+|**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-27**|**Flexible Blood Glucose Control: Offline Reinforcement Learning from Human Feedback**|Harry Emerson et.al.|[2501.15972](http://arxiv.org/abs/2501.15972)|null|
 |**2025-01-26**|**Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy**|Aimee Guo et.al.|[2501.15660](http://arxiv.org/abs/2501.15660)|null|

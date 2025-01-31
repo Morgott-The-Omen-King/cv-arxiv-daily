@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-11-23**|**Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Video Object Segmentation
 
@@ -53,12 +53,17 @@
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816](http://arxiv.org/abs/2501.17816)|null|
+|**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805](http://arxiv.org/abs/2501.17805)|null|
+|**2025-01-28**|**Categorification of Biquandle Arrow Weight Invariants via Quivers**|Sam Nelson et.al.|[2501.17307](http://arxiv.org/abs/2501.17307)|null|
+|**2025-01-28**|**Efficient Knowledge Distillation of SAM for Medical Image Segmentation**|Kunal Dasharath Patil et.al.|[2501.16740](http://arxiv.org/abs/2501.16740)|null|
+|**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-27**|**Flexible Blood Glucose Control: Offline Reinforcement Learning from Human Feedback**|Harry Emerson et.al.|[2501.15972](http://arxiv.org/abs/2501.15972)|null|
 |**2025-01-26**|**Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy**|Aimee Guo et.al.|[2501.15660](http://arxiv.org/abs/2501.15660)|null|
@@ -186,7 +191,7 @@
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
