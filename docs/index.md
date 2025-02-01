@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -50,6 +50,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
+|**2025-01-30**|**Causal Inference Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
+|**2025-01-30**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
 |**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816](http://arxiv.org/abs/2501.17816)|null|
 |**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805](http://arxiv.org/abs/2501.17805)|null|
 |**2025-01-28**|**Categorification of Biquandle Arrow Weight Invariants via Quivers**|Sam Nelson et.al.|[2501.17307](http://arxiv.org/abs/2501.17307)|null|
