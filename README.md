@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-11-23**|**Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Video Object Segmentation
 
@@ -53,15 +53,22 @@
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353](http://arxiv.org/abs/2501.19353)|null|
+|**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
+|**2025-01-31**|**mFollowIR: a Multilingual Benchmark for Instruction Following in Retrieval**|Orion Weller et.al.|[2501.19264](http://arxiv.org/abs/2501.19264)|**[link](https://github.com/orionw/followir)**|
+|**2025-01-31**|**The Local Galactic Transient Survey Applied to an Optical Search for Directed Intelligence**|Alex Thomas et.al.|[2501.18903](http://arxiv.org/abs/2501.18903)|null|
+|**2025-01-31**|**FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM**|Xinlong Wan et.al.|[2501.18855](http://arxiv.org/abs/2501.18855)|null|
+|**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
+|**2025-01-30**|**Cosmic Rays Masquerading as Hot CGM Gas: An Inverse-Compton Origin for Diffuse X-ray Emission in the Circumgalactic Medium**|Philip F. Hopkins et.al.|[2501.18696](http://arxiv.org/abs/2501.18696)|null|
 |**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
-|**2025-01-30**|**Causal Inference Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
-|**2025-01-30**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
+|**2025-02-03**|**Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
+|**2025-02-03**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
 |**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816](http://arxiv.org/abs/2501.17816)|null|
 |**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805](http://arxiv.org/abs/2501.17805)|null|
 |**2025-01-28**|**Categorification of Biquandle Arrow Weight Invariants via Quivers**|Sam Nelson et.al.|[2501.17307](http://arxiv.org/abs/2501.17307)|null|
@@ -194,7 +201,7 @@
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

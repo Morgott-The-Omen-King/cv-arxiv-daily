@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -50,9 +50,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353](http://arxiv.org/abs/2501.19353)|null|
+|**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
+|**2025-01-31**|**mFollowIR: a Multilingual Benchmark for Instruction Following in Retrieval**|Orion Weller et.al.|[2501.19264](http://arxiv.org/abs/2501.19264)|**[link](https://github.com/orionw/followir)**|
+|**2025-01-31**|**The Local Galactic Transient Survey Applied to an Optical Search for Directed Intelligence**|Alex Thomas et.al.|[2501.18903](http://arxiv.org/abs/2501.18903)|null|
+|**2025-01-31**|**FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM**|Xinlong Wan et.al.|[2501.18855](http://arxiv.org/abs/2501.18855)|null|
+|**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
+|**2025-01-30**|**Cosmic Rays Masquerading as Hot CGM Gas: An Inverse-Compton Origin for Diffuse X-ray Emission in the Circumgalactic Medium**|Philip F. Hopkins et.al.|[2501.18696](http://arxiv.org/abs/2501.18696)|null|
 |**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
-|**2025-01-30**|**Causal Inference Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
-|**2025-01-30**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
+|**2025-02-03**|**Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
+|**2025-02-03**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
 |**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816](http://arxiv.org/abs/2501.17816)|null|
 |**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805](http://arxiv.org/abs/2501.17805)|null|
 |**2025-01-28**|**Categorification of Biquandle Arrow Weight Invariants via Quivers**|Sam Nelson et.al.|[2501.17307](http://arxiv.org/abs/2501.17307)|null|
