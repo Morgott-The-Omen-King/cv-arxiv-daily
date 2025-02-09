@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -29,6 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
 |**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
 |**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
@@ -50,6 +51,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
+|**2025-02-06**|**Octagonal tilings with three prototiles**|April Lynne D. Say-awen et.al.|[2502.04133](http://arxiv.org/abs/2502.04133)|null|
+|**2025-02-06**|**No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking**|Emil Mededovic et.al.|[2502.03907](http://arxiv.org/abs/2502.03907)|null|
+|**2025-02-06**|**VERITAS and multiwavelength observations of the Blazar B3 2247+381 in response to an IceCube neutrino alert**|Atreya Acharyya et.al.|[2502.03853](http://arxiv.org/abs/2502.03853)|null|
+|**2025-02-06**|**FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation**|Guohao Huo et.al.|[2502.03829](http://arxiv.org/abs/2502.03829)|null|
+|**2025-02-05**|**Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation**|Wang Xinyi et.al.|[2502.03501](http://arxiv.org/abs/2502.03501)|null|
 |**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266](http://arxiv.org/abs/2502.03266)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
 |**2025-02-05**|**Tell2Reg: Establishing spatial correspondence between images by the same language prompts**|Wen Yan et.al.|[2502.03118](http://arxiv.org/abs/2502.03118)|null|
 |**2025-02-04**|**Rethinking Vision Transformer for Object Centric Foundation Models**|Manuel Traub et.al.|[2502.02763](http://arxiv.org/abs/2502.02763)|null|
