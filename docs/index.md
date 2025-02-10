@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Video Instance Segmentation
@@ -95,7 +95,7 @@ layout: default
 |**2025-01-23**|**On The Ideals of $Γ$ -Semigroup**|Abin Sam Tharakan et.al.|[2501.13408](http://arxiv.org/abs/2501.13408)|null|
 |**2025-01-23**|**Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility**|Gabrielle Hoyer et.al.|[2501.13376](http://arxiv.org/abs/2501.13376)|null|
 |**2025-01-22**|**Self-force and the Schwarzschild star**|Abhinove N. Seenivasan et.al.|[2501.13176](http://arxiv.org/abs/2501.13176)|null|
-|**2025-01-22**|**Sunny.jl: A Julia Package for Spin Dynamics**|David Dahlbom et.al.|[2501.13095](http://arxiv.org/abs/2501.13095)|null|
+|**2025-01-22**|**Sunny.jl: A Julia Package for Spin Dynamics**|David Dahlbom et.al.|[2501.13095](http://arxiv.org/abs/2501.13095)|**[link](https://github.com/sunnysuite/sunny.jl)**|
 |**2025-01-22**|**GRTresna: An open-source code to solve the initial data constraints in numerical relativity**|Josu C. Aurrekoetxea et.al.|[2501.13046](http://arxiv.org/abs/2501.13046)|**[link](https://github.com/grtlcollaboration/grtresna)**|
 |**2025-01-22**|**DynamicEarth: How Far are We from Open-Vocabulary Change Detection?**|Kaiyu Li et.al.|[2501.12931](http://arxiv.org/abs/2501.12931)|null|
 |**2025-01-22**|**Inverse Design of Chiral Structures for Giant Helical Dichroism**|Chia-Chun Pan et.al.|[2501.12825](http://arxiv.org/abs/2501.12825)|null|
@@ -187,7 +187,7 @@ layout: default
 |**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-12-17**|**Time-Biased Random Walks and Robustness of Expanders**|Sam Olesker-Taylor et.al.|[2412.13109](http://arxiv.org/abs/2412.13109)|null|
 |**2024-12-17**|**Fruit Deformity Classification through Single-Input and Multi-Input Architectures based on CNN Models using Real and Synthetic Images**|Tommy D. Beltran et.al.|[2412.12966](http://arxiv.org/abs/2412.12966)|null|
-|**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949](http://arxiv.org/abs/2412.12949)|null|
+|**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949](http://arxiv.org/abs/2412.12949)|**[link](https://github.com/Smart-Agri-DIAG/sdg4ad)**|
 |**2024-12-17**|**SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection**|Xing Liufu et.al.|[2412.12892](http://arxiv.org/abs/2412.12892)|**[link](https://github.com/Star-xing1/SAUGE)**|
 |**2024-12-17**|**CoLoRFul for hadron collisions: Integrating the counterterms**|S. Van Thurenhout et.al.|[2412.12750](http://arxiv.org/abs/2412.12750)|null|
 |**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737](http://arxiv.org/abs/2412.12737)|**[link](https://github.com/xai4sar/polsam)**|
@@ -197,7 +197,7 @@ layout: default
 |**2024-12-16**|**On the generalized Cauchy dual of closed operators in Hilbert spaces**|Arup Majumdar et.al.|[2412.12313](http://arxiv.org/abs/2412.12313)|null|
 |**2024-12-13**|**Simple Guidance Mechanisms for Discrete Diffusion Models**|Yair Schiff et.al.|[2412.10193](http://arxiv.org/abs/2412.10193)|**[link](https://github.com/kuleshov-group/discrete-diffusion-guidance)**|
 |**2024-12-13**|**Reward Machine Inference for Robotic Manipulation**|Mattijs Baert et.al.|[2412.10096](http://arxiv.org/abs/2412.10096)|null|
-|**2024-12-13**|**TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views**|Liang Zhao et.al.|[2412.10051](http://arxiv.org/abs/2412.10051)|null|
+|**2024-12-13**|**TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views**|Liang Zhao et.al.|[2412.10051](http://arxiv.org/abs/2412.10051)|**[link](https://github.com/leon2000-ai/tsgaussian)**|
 |**2024-12-12**|**Random Turán Problems for $K_{s,t}$ Expansions**|Jiaxi Nie et.al.|[2412.09367](http://arxiv.org/abs/2412.09367)|null|
 |**2024-12-12**|**Neural Interactive Proofs**|Lewis Hammond et.al.|[2412.08897](http://arxiv.org/abs/2412.08897)|null|
 |**2024-12-11**|**Annotation-Efficient Task Guidance for Medical Segment Anything**|Tyler Ward et.al.|[2412.08575](http://arxiv.org/abs/2412.08575)|null|
