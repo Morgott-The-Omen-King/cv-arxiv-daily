@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,13 @@
 |**2024-11-23**|**Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Video Object Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747](http://arxiv.org/abs/2502.06747)|null|
 |**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
 |**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
 |**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
@@ -54,12 +55,22 @@
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Cardiverse: Harnessing LLMs for Novel Card Game Prototyping**|Danrui Li et.al.|[2502.07128](http://arxiv.org/abs/2502.07128)|null|
+|**2025-02-10**|**Using Contextually Aligned Online Reviews to Measure LLMs' Performance Disparities Across Language Varieties**|Zixin Tang et.al.|[2502.07058](http://arxiv.org/abs/2502.07058)|null|
+|**2025-02-10**|**Higher-rank GBS groups: non-positive curvature and biautomaticity**|Sam Shepherd et.al.|[2502.06974](http://arxiv.org/abs/2502.06974)|null|
+|**2025-02-10**|**Cryoscope: A Cryogenic Infrared Survey Telescope**|Mansi M. Kasliwal et.al.|[2502.06950](http://arxiv.org/abs/2502.06950)|null|
+|**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756](http://arxiv.org/abs/2502.06756)|null|
+|**2025-02-10**|**From real analysis to the sorites paradox via Reverse Mathematics**|Walter Dean et.al.|[2502.06596](http://arxiv.org/abs/2502.06596)|null|
+|**2025-02-10**|**Sunrise III: Overview of Observatory and Instruments**|Andreas Korpi-Lagg et.al.|[2502.06483](http://arxiv.org/abs/2502.06483)|null|
+|**2025-02-10**|**FunduSAM: A Specialized Deep Learning Model for Enhanced Optic Disc and Cup Segmentation in Fundus Images**|Jinchen Yu et.al.|[2502.06220](http://arxiv.org/abs/2502.06220)|null|
+|**2025-02-10**|**Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection**|You Zhou et.al.|[2502.06194](http://arxiv.org/abs/2502.06194)|null|
+|**2025-02-09**|**Rapid Detection of High-impedance Arc Faults in Medium Voltage Electrical Distribution Systems**|Kriti Thakur et.al.|[2502.05846](http://arxiv.org/abs/2502.05846)|null|
 |**2025-02-07**|**A Randomised Approach to Distributed Sorting**|Sam Olesker-Taylor et.al.|[2502.05082](http://arxiv.org/abs/2502.05082)|null|
 |**2025-02-07**|**Online Robot Motion Planning Methodology Guided by Group Social Proxemics Feature**|Xuan Mu et.al.|[2502.04837](http://arxiv.org/abs/2502.04837)|null|
 |**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
@@ -220,7 +231,7 @@
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
