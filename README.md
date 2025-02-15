@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-11-23**|**Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-21**|**LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS**|Xinyu Liu et.al.|[2408.10469](http://arxiv.org/abs/2408.10469)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
 
 ## Video Object Segmentation
 
@@ -42,7 +42,7 @@
 |**2025-01-23**|**MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation**|Fu Rong et.al.|[2501.13667](http://arxiv.org/abs/2501.13667)|null|
 |**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
 |**2025-01-15**|**Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation**|Sun-Hyuk Choi et.al.|[2501.04939](http://arxiv.org/abs/2501.04939)|**[link](https://github.com/choi58/mtcm)**|
-|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
+|**2025-02-13**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2024-12-19**|**M $^3$ -VOS: Multi-Phase, Multi-Transition, and Multi-Scenery Video Object Segmentation**|Zixuan Chen et.al.|[2412.13803](http://arxiv.org/abs/2412.13803)|null|
 |**2024-12-23**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072](http://arxiv.org/abs/2412.07072)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
@@ -55,14 +55,22 @@
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-05**|**LiVOS: Light Video Object Segmentation with Gated Linear Matching**|Qin Liu et.al.|[2411.02818](http://arxiv.org/abs/2411.02818)|**[link](https://github.com/uncbiag/livos)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
+|**2025-02-13**|**Code Style Sheets: CSS for Code**|Sam Cohen et.al.|[2502.09386](http://arxiv.org/abs/2502.09386)|null|
+|**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
+|**2025-02-12**|**Demand Response Optimization MILP Framework for Microgrids with DERs**|K. Victor Sam Moses Babu et.al.|[2502.08764](http://arxiv.org/abs/2502.08764)|null|
+|**2025-02-12**|**Phenothiazine-Based Self-Assembled Monolayer with Thiophene Head Groups Minimizes Buried Interface Losses in Tin Perovskite Solar Cells**|Valerio Stacchini et.al.|[2502.08579](http://arxiv.org/abs/2502.08579)|null|
+|**2025-02-12**|**Monge SAM: Robust Reparameterization-Invariant Sharpness-Aware Minimization Based on Loss Geometry**|Albert Kjøller Jacobsen et.al.|[2502.08448](http://arxiv.org/abs/2502.08448)|null|
+|**2025-02-12**|**2-Categorical Affine Symmetries of Quantum Enveloping Algebras**|Sam Qunell et.al.|[2502.08039](http://arxiv.org/abs/2502.08039)|null|
+|**2025-02-13**|**Investigating photometric and spectroscopic variability in the multiply-imaged Little Red Dot A2744-QSO1**|Lukas J. Furtak et.al.|[2502.07875](http://arxiv.org/abs/2502.07875)|null|
 |**2025-02-10**|**Cardiverse: Harnessing LLMs for Novel Card Game Prototyping**|Danrui Li et.al.|[2502.07128](http://arxiv.org/abs/2502.07128)|null|
-|**2025-02-10**|**Using Contextually Aligned Online Reviews to Measure LLMs' Performance Disparities Across Language Varieties**|Zixin Tang et.al.|[2502.07058](http://arxiv.org/abs/2502.07058)|null|
+|**2025-02-13**|**Using Contextually Aligned Online Reviews to Measure LLMs' Performance Disparities Across Language Varieties**|Zixin Tang et.al.|[2502.07058](http://arxiv.org/abs/2502.07058)|null|
 |**2025-02-10**|**Higher-rank GBS groups: non-positive curvature and biautomaticity**|Sam Shepherd et.al.|[2502.06974](http://arxiv.org/abs/2502.06974)|null|
 |**2025-02-10**|**Cryoscope: A Cryogenic Infrared Survey Telescope**|Mansi M. Kasliwal et.al.|[2502.06950](http://arxiv.org/abs/2502.06950)|null|
 |**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756](http://arxiv.org/abs/2502.06756)|null|
@@ -231,7 +239,7 @@
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**Tunable Orbital Thermoelectric Transport with Spin-Valley Coupling in Ferromagnetic Transition Metal Dichalcogenides**|Shilei Ji et.al.|[2412.07266](http://arxiv.org/abs/2412.07266)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
