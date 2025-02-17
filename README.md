@@ -73,7 +73,7 @@
 |**2025-02-13**|**Using Contextually Aligned Online Reviews to Measure LLMs' Performance Disparities Across Language Varieties**|Zixin Tang et.al.|[2502.07058](http://arxiv.org/abs/2502.07058)|null|
 |**2025-02-10**|**Higher-rank GBS groups: non-positive curvature and biautomaticity**|Sam Shepherd et.al.|[2502.06974](http://arxiv.org/abs/2502.06974)|null|
 |**2025-02-10**|**Cryoscope: A Cryogenic Infrared Survey Telescope**|Mansi M. Kasliwal et.al.|[2502.06950](http://arxiv.org/abs/2502.06950)|null|
-|**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756](http://arxiv.org/abs/2502.06756)|null|
+|**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756](http://arxiv.org/abs/2502.06756)|**[link](https://github.com/linyq2117/samrefiner)**|
 |**2025-02-10**|**From real analysis to the sorites paradox via Reverse Mathematics**|Walter Dean et.al.|[2502.06596](http://arxiv.org/abs/2502.06596)|null|
 |**2025-02-10**|**Sunrise III: Overview of Observatory and Instruments**|Andreas Korpi-Lagg et.al.|[2502.06483](http://arxiv.org/abs/2502.06483)|null|
 |**2025-02-10**|**FunduSAM: A Specialized Deep Learning Model for Enhanced Optic Disc and Cup Segmentation in Fundus Images**|Jinchen Yu et.al.|[2502.06220](http://arxiv.org/abs/2502.06220)|null|
@@ -83,12 +83,12 @@
 |**2025-02-07**|**Online Robot Motion Planning Methodology Guided by Group Social Proxemics Feature**|Xuan Mu et.al.|[2502.04837](http://arxiv.org/abs/2502.04837)|null|
 |**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
 |**2025-02-06**|**Octagonal tilings with three prototiles**|April Lynne D. Say-awen et.al.|[2502.04133](http://arxiv.org/abs/2502.04133)|null|
-|**2025-02-06**|**No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking**|Emil Mededovic et.al.|[2502.03907](http://arxiv.org/abs/2502.03907)|null|
+|**2025-02-06**|**No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking**|Emil Mededovic et.al.|[2502.03907](http://arxiv.org/abs/2502.03907)|**[link](https://github.com/medem23/SAM-QA)**|
 |**2025-02-06**|**VERITAS and multiwavelength observations of the Blazar B3 2247+381 in response to an IceCube neutrino alert**|Atreya Acharyya et.al.|[2502.03853](http://arxiv.org/abs/2502.03853)|null|
 |**2025-02-06**|**FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation**|Guohao Huo et.al.|[2502.03829](http://arxiv.org/abs/2502.03829)|null|
 |**2025-02-05**|**Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation**|Wang Xinyi et.al.|[2502.03501](http://arxiv.org/abs/2502.03501)|null|
 |**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266](http://arxiv.org/abs/2502.03266)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
-|**2025-02-05**|**Tell2Reg: Establishing spatial correspondence between images by the same language prompts**|Wen Yan et.al.|[2502.03118](http://arxiv.org/abs/2502.03118)|null|
+|**2025-02-05**|**Tell2Reg: Establishing spatial correspondence between images by the same language prompts**|Wen Yan et.al.|[2502.03118](http://arxiv.org/abs/2502.03118)|**[link](https://github.com/yanwenci/tell2reg)**|
 |**2025-02-04**|**Rethinking Vision Transformer for Object Centric Foundation Models**|Manuel Traub et.al.|[2502.02763](http://arxiv.org/abs/2502.02763)|null|
 |**2025-02-04**|**RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2**|Bin Xie et.al.|[2502.02741](http://arxiv.org/abs/2502.02741)|null|
 |**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558](http://arxiv.org/abs/2502.02558)|null|
@@ -104,7 +104,7 @@
 |**2025-01-31**|**FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM**|Xinlong Wan et.al.|[2501.18855](http://arxiv.org/abs/2501.18855)|null|
 |**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
 |**2025-01-30**|**Cosmic Rays Masquerading as Hot CGM Gas: An Inverse-Compton Origin for Diffuse X-ray Emission in the Circumgalactic Medium**|Philip F. Hopkins et.al.|[2501.18696](http://arxiv.org/abs/2501.18696)|null|
-|**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
+|**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|**[link](https://github.com/sam2act/sam2act)**|
 |**2025-02-03**|**Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
 |**2025-02-03**|**TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**|Alex Thomas et.al.|[2501.18142](http://arxiv.org/abs/2501.18142)|null|
 |**2025-01-29**|**The typical structure of dense claw-free graphs**|Will Perkins et.al.|[2501.17816](http://arxiv.org/abs/2501.17816)|null|
